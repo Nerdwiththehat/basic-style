@@ -1814,3 +1814,7 @@ article.type_link .the-link .the-link-text span:first-child {
   -o-transition: none;
   transition: none;
 }
+.footercc img{
+	display: inline;
+	vertical-align: middle;
+}
